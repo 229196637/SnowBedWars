@@ -1,0 +1,10 @@
+name: SnowBedWars
+version: ${project.version}
+main: snownetwork.plugins.snowbedwars.SnowBedWars
+commands:
+  bws:
+    permission: Snow.admin
+    permission-message: You don't have snow.admin
+  debug:
+    permission: Snow.admin
+    permission-message: You don't have snow.admin

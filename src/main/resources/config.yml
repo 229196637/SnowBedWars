@@ -1,0 +1,22 @@
+GameSetting:
+  #不同阶段的资源点刷新速度
+  The First stage:
+    Diamond: 5
+    Iron: 5
+    Emerald: 5
+    Gold: 5
+  The Second stage:
+    Diamond: 5
+    Iron: 5
+    Emerald: 5
+    Gold: 5
+  The Third stage:
+    Diamond: 5
+    Iron: 5
+    Emerald: 5
+    Gold: 5
+host: localhost
+database: snowcapltal
+port: 3306
+username: root
+password: root
